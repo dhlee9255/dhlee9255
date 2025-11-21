@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🏫 Soongsil Univ. GLOBAL SCHOOL OF MEDIA 21
-- 🌱 I’m currently learning : Graphics & Computer Vision
+- 🌱 I’m currently interested in : Graphics & Computer Vision
 - 📫 How to reach me: dhlee9255@naver.com
 <!--
 - 👯 I’m looking to collaborate on ...
